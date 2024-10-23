@@ -127,6 +127,8 @@ GENT supports a wide range of natural language commands:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+If you want to support the efforts of Menova AI, consider joining our patreon so we can continue making AI accessible to everyone.
+patreon.com/MenovaAI
 
 ## 📝 License
 
