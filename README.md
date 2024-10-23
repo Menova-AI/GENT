@@ -1,3 +1,9 @@
+# ⚠️ IMPORTANT NOTICE
+
+**This project is currently being withheld from public distribution due to safety concerns. The potential for misuse in automated interaction with sensitive interfaces requires careful consideration of security implications and appropriate safeguards before public release. This documentation is provided for informational purposes only.**
+
+---
+
 # GENT (GUI Element Navigation Tool)
 
 GENT is an advanced desktop automation tool that combines computer vision, natural language processing, and mouse/keyboard control to enable intuitive, voice-controlled interaction with any graphical user interface.
