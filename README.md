@@ -19,25 +19,6 @@ GENT is an advanced desktop automation tool that combines computer vision, natur
 - **Smart Element Selection**: Supports various mouse actions including click, right-click, double-click, drag-and-drop
 - **Audio Feedback**: Provides audio confirmation for successful command processing
 
-## 🛠️ Technical Components
-
-### Core Modules
-
-- **audio_processing.py**: Handles voice input recording and processing
-- **chat_gpt.py**: Processes natural language commands and coordinates actions
-- **commands.py**: Implements mouse/keyboard control functions
-- **image_processing.py**: Manages screenshot capture and GUI element detection
-- **config.py**: Contains system-wide configuration settings
-- **utils.py**: Provides utility functions for element navigation
-
-### AI Models Used
-
-- **YOLO**: For GUI element detection and classification
-- **BLIP**: For image captioning and understanding
-- **EasyOCR**: For text extraction from GUI elements
-- **Whisper**: For speech-to-text conversion
-- **GPT-4**: For natural language understanding and command processing
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -110,19 +91,9 @@ GENT supports a wide range of natural language commands:
 
 - Classifies GUI elements into categories:
   - Buttons
-  - Fields
-  - Headings
-  - iframes
   - Images
-  - Labels
   - Links
   - Text
-
-### Navigation Algorithm
-
-- Implements Bezier curve mouse movement for natural-feeling control
-- Uses quadrant-based positioning for precise element location
-- Supports relative and absolute positioning
 
 ## 🤝 Contributing
 
@@ -133,14 +104,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is licensed under the AGPL-3.0 license - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT models
-- Ultralytics for YOLO
-- Salesforce for BLIP
-- JaidedAI for EasyOCR
-- OpenAI for Whisper
 
 ## ⚠️ Disclaimer
 
